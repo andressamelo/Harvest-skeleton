@@ -1,4 +1,4 @@
-Front End Gulp Boilerplate - Harvest plus Skeleton
+Front End Gulp Boilerplate - Harvest + Skeleton
 ====================================================
 
 Front-end boilerplate for Gulp with everything you need to get started.
@@ -24,4 +24,4 @@ Documentation
 ==========================
 Check out the website http://www.ryanbensonmedia.com/harvest for more information.
 
-Check out the website http://http://getskeleton.com for more information.
+Check out the website http://getskeleton.com for more information.
